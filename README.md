@@ -2,7 +2,6 @@
 
 The HR Analytics Project is a comprehensive Human Resources analytics solution that combines SQL database management with Power BI dashboarding to analyze workforce data, track employee attrition, and provide actionable insights into departmental performance, compensation trends, and employee demographics. It enables HR departments and business leaders to identify patterns, predict turnover, and optimize workforce planning strategies.
 
---
 
 ## 📝 Description
 The HR ANALYTICS is a comprehensive Human Resources analytics solution designed to provide actionable insights into workforce data. This project combines SQL-based data processing with an interactive Power BI dashboard to help HR professionals and business leaders make data-driven decisions about:
@@ -16,7 +15,6 @@ The HR ANALYTICS is a comprehensive Human Resources analytics solution designed 
 
 The project enables HR departments to identify patterns, predict potential issues, and optimize workforce planning strategies.
 
---
 
 ## ✨ Features
 
@@ -28,7 +26,6 @@ The project enables HR departments to identify patterns, predict potential issue
 •  Compensation Analysis: Salary trends and compensation insights
 •  Employee Demographics: Detailed employee categorization and statistics
 
---
 
 ## ⚒️ Stack
 
@@ -41,7 +38,6 @@ The project enables HR departments to identify patterns, predict potential issue
 • Power BI Desktop — data visualization and interactive dashboarding
 • SQL Server — relational database for structured HR data storage
 
---
 
 ## 🚀 How to Run It
 
@@ -58,7 +54,6 @@ The project enables HR departments to identify patterns, predict potential issue
  • Open the HR ANALYTICS.sql file
  • Execute the script (F5 Or Ctrl+E)
 
---
 
 ## 🔗 How to Connect SQL Server
 
@@ -68,7 +63,6 @@ The project enables HR departments to identify patterns, predict potential issue
  • Handles NULL values with defaults
  • Runs sample analytical queries
 
---
 
 ## 🚀 Connect to Power BI
 
@@ -79,7 +73,6 @@ The project enables HR departments to identify patterns, predict potential issue
  • Click Load
  • Create/Open HR ANALYTICS DASHBOARD.pbix for interactive visualizations
 
---
 
 ## 🧑‍💼 Usage
 
@@ -90,7 +83,6 @@ The project enables HR departments to identify patterns, predict potential issue
  • Generate custom reports for management presentations
  • Use data-driven insights for workforce planning
 
---
 
 ## 🎯 For Business Leaders:
 
@@ -99,7 +91,6 @@ The project enables HR departments to identify patterns, predict potential issue
  • Monitor department performance and productivity
  • Identify high-risk attrition areas before they escalate
 
---
 
 ## 📊 Key Metrics to Monitor
 
