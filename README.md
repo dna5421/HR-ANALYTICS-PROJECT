@@ -16,6 +16,11 @@ The HR ANALYTICS is a comprehensive Human Resources analytics solution designed 
 The project enables HR departments to identify patterns, predict potential issues, and optimize workforce planning strategies.
 
 
+
+
+![image alt](https://github.com/dna5421/HR-ANALYTICS-PROJECT/blob/707e448f1da589d80a2f07191abcbb6c258a8fa2/HR%20ANALYTICS%20DASHBOARD.jpeg)
+
+
 ## ✨ Features
 
 •  SQL Database Integration: Structured data queries and analysis using SQL
