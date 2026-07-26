@@ -264,6 +264,7 @@ The HR Analytics Project is a data-driven solution that combines SQL database ma
 
    ## 📡 Author & Contact
 
-   👤 Author: DNA5421
-   📧 GitHub Profile: @dna5421
-   🔗 Repository: HR-ANALYTICS-PROJECT
+   👤 Author: dna5421
+   📧 GitHub Profile: https://github.com/dna5421
+   🔗 Repository: https://github.com/dna5421/HR-ANALYTICS-PROJECT
+
