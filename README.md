@@ -96,12 +96,12 @@ SELECT Experience, AVG(Salary) AS AvgSalary FROM Employees GROUP BY Experience;<
   <h3>📊 Key Dashboard Components</h3>
 
   <p><strong>1. KPI Cards (Top Row)</strong></p>
-  <div class="metrics-grid">
-    <div class="kpi-item"><div class="kpi-value">4.40 yrs</div><div class="kpi-label">Avg Experience</div></div>
-    <div class="kpi-item"><div class="kpi-value">₹59.50K</div><div class="kpi-label">Avg Salary</div></div>
-    <div class="kpi-item"><div class="kpi-value">10</div><div class="kpi-label">Total Employees</div></div>
-    <div class="kpi-item"><div class="kpi-value">3.60/5</div><div class="kpi-label">Avg Performance</div></div>
-  </div>
+<ul>
+  <li><strong>Avg Experience:</strong> 4.40 years</li>
+  <li><strong>Avg Salary:</strong> ₹59.50K</li>
+  <li><strong>Total Employees:</strong> 10</li>
+  <li><strong>Avg Performance:</strong> 3.60/5</li>
+</ul>
 
   <p><strong>2. Sum of Salary by Department (Bar Chart)</strong></p>
   <ul>
@@ -141,11 +141,12 @@ SELECT Experience, AVG(Salary) AS AvgSalary FROM Employees GROUP BY Experience;<
 
   <h2>🧑‍💼 Model / Output</h2>
   <p><strong>Output Files Generated:</strong></p>
-  <div class="tree">HR-ANALYTICS-PROJECT/
-├── HR ANALYTICS.sql (Database &amp; Query Script)
-├── HR ANALYTICS DASHBOARD.pbix (Power BI Dashboard)
-├── README.md (Documentation)
-└── Sample Data (10 employee records)</div>
+ <pre><code>HR-ANALYTICS-PROJECT/
+├── HR ANALYTICS.sql <em>(Database &amp; Query Script)</em>
+├── HR ANALYTICS DASHBOARD.pbix <em>(Power BI Dashboard)</em>
+├── README.md <em>(Documentation)</em>
+└── Sample Data <em>(10 employee records)</em>
+</code></pre>
 
   <p>✅ <strong>Analytical Outputs:</strong></p>
   <ul>
@@ -293,4 +294,3 @@ cd HR-ANALYTICS-PROJECT</code></pre>
 
 </div>
 </body>
-</html>
